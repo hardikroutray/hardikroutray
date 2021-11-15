@@ -1,4 +1,4 @@
-![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardikroutray&hide=contribs,prs&show_icons=true&theme=radical)
+![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardikroutray&hide=prs&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikroutray&exclude_repo=hardikroutray.github.io,personal-website&hide=JupyterNotebook&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
