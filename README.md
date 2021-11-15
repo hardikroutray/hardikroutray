@@ -1,7 +1,9 @@
-[![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardikroutray&hide=prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikroutray&exclude_repo=hardikroutray.github.io,personal-website&hide=JupyterNotebook&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikroutray&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Hardik's github stats" /></a> |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikroutray&exclude_repo=hardikroutray.github.io,personal-website&hide=JupyterNotebook&langs_count=4&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
+
 **hardikroutray/hardikroutray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
