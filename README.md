@@ -1,5 +1,5 @@
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikroutray&show_icons=true&include_all_commits=true&theme=radical&hide_border=True&count_private=true" alt="Hardik's github stats" /></a> |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikroutray&exclude_repo=hardikroutray.github.io,personal-website&hide=JupyterNotebook&langs_count=4&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikroutray&show_icons=true&include_all_commits=true&theme=radical&count_private=true&hide_border=true" alt="Hardik's github stats" /></a> |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikroutray&exclude_repo=hardikroutray.github.io,personal-website&hide=JupyterNotebook&langs_count=4&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--
