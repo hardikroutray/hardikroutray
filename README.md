@@ -1,3 +1,10 @@
+- 😄 Hello, Welcome to my github page! 
+I'm a Ph.D. candidate in physics working on the CMS experiment at Large Hadron Collider (LHC) @ CERN. Do check out some of my work! 
+
+- 🌱 One of the latest project I'm involved in belongs to the field of quantum computing where I study modifications of BB84 cryptography protocol. Also check out the app I made [here!](https://bb84-cloning.herokuapp.com/) 
+
+- ⚡ Soon, I'll add brief explanations of all my current and past projects with relevant links. Please come back!
+
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikroutray&show_icons=true&include_all_commits=false&theme=radical&count_private=true&hide_border=true" alt="Hardik's github stats" /></a> |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikroutray&exclude_repo=hardikroutray.github.io,personal-website&hide=JupyterNotebook&langs_count=4&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
