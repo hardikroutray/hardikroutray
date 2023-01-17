@@ -7,7 +7,7 @@ I'm a Ph.D. candidate in physics working on the CMS experiment at Large Hadron C
 
 - ⚡ You can also find other data science projects I have worked on here. Soon, I'll add brief explanations of all my current and past projects with relevant links. Please come back!
 
-![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardikroutray&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikroutray&exclude_repo=hardikroutray.github.io,personal-website&langs_count=4&layout=compact&hide=JupyterNotebook,html)](https://github.com/anuraghazra/github-readme-stats)
+![Hardik's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hardikroutray&show_icons=true)  [![Top Langs](github-readme-stats.vercel.app/api/top-langs/?username=hardikroutray&exclude_repo=hardikroutray.github.io,personal-website&langs_count=4&layout=compact&hide=JupyterNotebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
