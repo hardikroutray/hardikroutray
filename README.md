@@ -1,5 +1,5 @@
 - 😄 Hello, Welcome to my github page! 
-I'm a Ph.D. candidate in physics working on the CMS experiment at Large Hadron Collider (LHC) @ CERN. I have worked on multiple projects in particle physics. You'll find some of my work here! 
+I have a Ph.D. in physics obtained from working on the CMS experiment at Large Hadron Collider (LHC) @ CERN. I have worked on multiple projects in particle physics. You'll find some of my work here! 
 
 - 🌱 One of the latest project I'm involved in belongs to the field of quantum computing where I study modifications of BB84 cryptography protocol. Also check out the app I made [here!](https://bb84-cloning.herokuapp.com/) 
 
